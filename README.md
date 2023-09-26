@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Analyst | Fresher | Aspiring Data Scientist<br><br>👋 Welcome to my GitHub profile! I am passionate about data analysis and eager to learn and grow in the field of data science.<br><br>- Data Analysis<br>- SQL<br>- Python<br>- Data Visualization<br>- Excel<br>- Machine Learning (Basics)
+ Aspiring Data Analyst <br><br>👋 Welcome to my GitHub profile! I am passionate about data analysis and eager to learn and grow in the field of data science.<br><br>- Data Analysis<br>- SQL<br>- Python<br>- Data Visualization<br>- Excel<br>- Machine Learning (Basics)
 
 
 ## 🌐 Socials:
